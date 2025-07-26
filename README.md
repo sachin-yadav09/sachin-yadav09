@@ -19,13 +19,13 @@
 ---
 
 🚀 Projects
-## ### 🔹 [Car Rental Website](#)
+## ### 🔹 [Car Rental Website](carRental-website)
 Frontend: Angular • Backend: Python (REST API)  
 RESTful API integrated, basic booking flow, user interface & data handling.
 
-### 🔹 [Task Manager App](#)
+<!--### 🔹 [Task Manager App](#)
 Frontend: Angular • Backend: Python  
-Create/manage tasks with real-time REST API interactions.
+Create/manage tasks with real-time REST API interactions.-->
 
 **Note:** Links will be added once projects are deployed or hosted.
 
