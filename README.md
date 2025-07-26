@@ -12,7 +12,7 @@
 
 ## 🧠 Currently Learning
 - 🐍 Python, Django
-- 📊 Data Science & Machine Learning
+- 📊 Data Science & Machine Learning,Mysql
 - 🌐 Core Java & Advanced Java (Basics)
 - 💻 REST APIs, Angular (Frontend Framework basic) working on ReactJS
 
@@ -33,7 +33,7 @@ Create/manage tasks with real-time REST API interactions.
 
 ## 🛠️ Tools & Technologies
 
-- 👨‍💻 **Languages**: Python, JavaScript, Core Java, Advanced Java (Basic)
+- 👨‍💻 **Languages**: Python, JavaScript, Core Java, Advanced Java (Basic), Mysql
 - 🧩 **Frameworks**: Django, Angular (basic), working on ReactJS, REST APIs
 - 📦 **Tools**: Git, GitHub, VS Code, Jupyter Notebook, Postman
 - 🧮 **Libraries**: Pandas, NumPy, Matplotlib (for Data Science)
