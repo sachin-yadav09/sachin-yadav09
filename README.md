@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Projects
-## ### 🔹 [Car Rental Website](https://github.com/sachin-yadav09/carRental-website)
+#### 🔹 [Car Rental Website](https://github.com/sachin-yadav09/carRental-website)
 Frontend: Angular • Backend: Python (REST API)  
 RESTful API integrated, basic booking flow, user interface & data handling.
 
