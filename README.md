@@ -43,7 +43,7 @@ Create/manage tasks with real-time REST API interactions.-->
 
 ## 📫 Contact Me
 
-📧 Email: [yadavsachin4724@gmail.com](mailto:yadavsachin4724@gmail.com)
+📧 Email: [yadavsachin.tech@gmail.com](mailto:yadavsachin.tech@gmail.com)
 
 ---
 
