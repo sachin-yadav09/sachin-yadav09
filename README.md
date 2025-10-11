@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sachin Yadav</h1>
-<h3 align="center">Dedicated to becoming a well-rounded developer with a focus on Backend development, complemented by Frontend learning and Data Science explorationDedicated</h3>
+<h3 align="center">Dedicated to becoming a well-rounded developer with a focus on Backend development, complemented by Frontend learning and Data Science exploration</h3>
 
 ---
 
