@@ -23,6 +23,12 @@
 Frontend: Angular • Backend: Python (REST API)  
 RESTful API integrated, basic booking flow, user interface & data handling.
 
+#### 🔹 [Python_CmdProject](www.com)
+Basic Python CMD-based project
+1. This is a simple Python project that can be used to test the Python code in the cmd project.
+2. To run the project, open the CMD project and run the Python project.
+3. The Python project will run the Python code in the cmd project and print the output to the console.
+
 <!--### 🔹 [Task Manager App](#)
 Frontend: Angular • Backend: Python  
 Create/manage tasks with real-time REST API interactions.-->
