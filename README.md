@@ -43,8 +43,8 @@ Create/manage tasks with real-time REST API interactions.-->
 
 ## 📫 Contact Me
 
-📧 Email: [yadavsachin.tech@gmail.com](mailto:yadavsachin.tech@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/sachin-yadav-tech/](https://www.linkedin.com/in/sachin-yadav-tech/)
+📧 Email: [yadavsachin.tech@gmail.com](mailto:yadavsachin.tech@gmail.com)<br>
+LinkedIn: [https://www.linkedin.com/in/sachin-yadav-tech/](https://www.linkedin.com/in/sachin-yadav-tech/)<br>
 Instagram: [https://www.instagram.com/sachienyadav/](https://www.instagram.com/sachienyadav/)
 
 ---
